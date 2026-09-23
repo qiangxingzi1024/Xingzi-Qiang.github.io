@@ -7,7 +7,7 @@
 
 **Website:** [https://si.ahu.edu.cn/2022/0505/c19592a285219/page.htm]
 
-**ResearchGate:** [https://www.researchgate.net/profile/Qiang-Xingzi]
+**Git CV:** [https://qiangxingzi1024.github.io/Xingzi-Qiang.github.io/]
 
 **Location:** Hefei, Anhui, China
 
@@ -77,8 +77,6 @@
 ## **Publications**
 
 ### **Published/Accepted Journal Papers**
-
-### **Refereed Journal Papers**
 
 1. Zhiqiang Lyu, Hao Wang, Wenwu Shi, **Xingzi Qiang\***, Longxing Wu. "Battery SOH estimation via an optimized CNN–BiLSTM–Attention network using ICA-based ageing features," *Ionics*, vol. 32, no. 2, pp. 1771-1787, 2026. 
 1. Ying Ma, Rui Xue, Yingkui Gong, **Xingzi Qiang\***. "Cooperative localization for multi-airship navigation network with hybrid kernel particle filter," *Chinese Journal of Aeronautics*, p. 103843, 2025.
