@@ -67,29 +67,11 @@
 
 ## **Research Projects**
 
-1. **III-Class Precision Approach and Landing Satellite Navigation Technology** (National Key R&D Program)
-
-   * *Project No.:* 2017YFB0503400 | *Principal Investigator:* Prof. Rui Xue (2017.09 – 2021.10)
-
-   * *Description:* Developed GBAS ground system prototypes and airborne multi-mode receiver prototypes meeting Class III requirements; established standard systems and validation testbeds.
-
-   * *Role:* Technical backbone, led graduate students in task decomposition, multi-constellation multi-frequency local differential methods, integrity monitoring, and semi-physical simulation platform development.
-
-2. **Sky-Earth Integrated Navigation Enhancement Dynamic Ad-Hoc Network Model and Application Modes** (National Natural Science Foundation of China - Key Program Sub-project)
-
-   * *Project No.:* 91438207 | *Principal Investigator:* Prof. Yingkui Gong (2017.09 – 2018.12)
-
-   * *Description:* Focused on spatial-temporal reference sources (Baidu/GNSS, communication satellites, near-space aerostats, UAVs) to break through key theories in dynamic ad-hoc network architectures and multi-source navigation enhancement.
-
-   * *Role:* Technical backbone of the sub-project "Node Perception and Self-healing Integrity Enhancement," led the design of discrete Bayesian inference-based state fusion methods and simulation platforms.
-
-3. **Research on Comprehensive Performance Credible Evaluation Methods for Air Traffic Management Equipment Flight Inspection** (NSFC-Civil Aviation Joint Fund)
-
-   * *Project No.:* U1833125 | *Principal Investigator:* Prof. Yanbo Zhu (2019.01 – 2021.01)
-
-   * *Description:* Studied auto-correction methods for dynamic time-varying parameters and multi-level credible evaluation based on parameter inversion.
-
-   * *Role:* Key researcher, developed the Bayesian network-based measurement error propagation model and ionospheric delay estimation methods.
+- **PI**, “Intelligent Security System Integration and Technology Development Based on Multi-Source Data Fusion”, Horizontal Project with Shaanxi Minghui Zhiyuan Technology Co., Ltd., Oct. 2025 – Sep. 2027, 
+- **PI**, “Research on Integrity Monitoring Technology for Multi-Source Fusion Navigation of UAV Flight”, State Key Laboratory of CNS/ATM Open Research Fund, Oct. 2024 – Sep. 2025, 
+- **Technical Backbone**, “III-Class Precision Approach and Landing Satellite Navigation Technology”, National Key R&D Program of China, Sep. 2017 – Oct. 2021, 
+- **Technical Backbone**, “Sky-Earth Integrated Navigation Enhancement Dynamic Ad-Hoc Network Model and Application Modes”, National Natural Science Foundation of China (Key Program Sub-project), Sep. 2017 – Dec. 2018, 
+- **Key Researcher**, “Research on Comprehensive Performance Credible Evaluation Methods for Air Traffic Management Equipment Flight Inspection”, NSFC-Civil Aviation Joint Research Fund, Jan. 2019 – Jan. 2021,
 
 ## **Publications**
 
